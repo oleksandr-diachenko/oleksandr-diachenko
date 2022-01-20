@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oleksandr-diachenko" alt="oleksandr-diachenko" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tw_positiv" target="blank"><img src="https://img.shields.io/twitter/follow/tw_positiv?logo=twitter&style=for-the-badge" alt="tw_positiv" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tw_positiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tw_positiv" height="30" width="40" /></a>
