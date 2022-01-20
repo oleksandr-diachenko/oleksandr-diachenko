@@ -15,6 +15,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oleksandr-diachenko&show_icons=true&locale=en&layout=compact" alt="oleksandr-diachenko" /></p>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oleksandr-diachenko&show_icons=true&locale=en" alt="oleksandr-diachenko" /></p>
+<p>
+<div align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oleksandr-diachenko&show_icons=true&locale=en" alt="oleksandr-diachenko" /></div>
 
-<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oleksandr-diachenko&" alt="oleksandr-diachenko" /></p>
+<div align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oleksandr-diachenko&" alt="oleksandr-diachenko" /></div>
+<p>
